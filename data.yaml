@@ -1,0 +1,6 @@
+
+train: /home/user/Data/Project/HumanDetectionYolo/datasets/train/proc/train
+val: /home/user/Data/Project/HumanDetectionYolo/datasets/valid/proc/val
+
+names:
+  0: human
